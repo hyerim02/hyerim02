@@ -9,10 +9,10 @@
 
 ## <a href="https://rimint02.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a> <a href="https://www.instagram.com/rrrim_dim/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a> <a href="" target="_blank"><img src="https://img.shields.io/badge/phl0218@naver.com-03C75A?style=flat-square&logo=phl0218@naver.com&logoColor=white"/></a>   
 
-## 💪skills  
+## 💻Tech Stacks💻  
 
-## <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-
+## <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">   
+<a href="" target="_blank"><img src="https://img.shields.io/badge/SPSS-40AEF0?style=flat-square&logo=SPSS&logoColor=white"/></a>
 
 
 ![hyerim02's github stats](https://github-readme-stats.vercel.app/api?username=hyerim02&show_icons=true)
