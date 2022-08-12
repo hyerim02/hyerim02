@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=250&section=header&fontSize=50&text=Welcome%20&desc=hyerim's%20Github%20profile&fontColor=white)
+![header](https://capsule-render.vercel.app/api?type=waving&height=250&section=header&fontSize=50&text=Welcome%20&desc=hyerim's%20Github%20profile&color=gradient&customColorList=0)
