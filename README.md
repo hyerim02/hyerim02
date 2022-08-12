@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&section=header&fontSize=50&text=Welcome%20&desc=hyerim's%20Github%20profile&fontAlignY=30&descAlignY=50&descAlign=60&color=gradient&customColorList=2)    
 
 
-https://github.com/hyerim02/hit-counter
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyerim02%2Fhit-counter&count_bg=%233D67C8&title_bg=%230BDBEA&icon=&icon_color=%233D67C8&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 💙SNS list💙   
 
