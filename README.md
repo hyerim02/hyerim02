@@ -7,10 +7,8 @@
 
 ## 💙SNS list💙   
 
-## <a href="https://rimint02.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a> <a href="https://www.instagram.com/rrrim_dim/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>  
+## <a href="https://rimint02.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a> <a href="https://www.instagram.com/rrrim_dim/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a> <a href="phl0218@naver.com" target="_blank"><img src="https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>  
 
-## 📨Email📨  
-phl0218@naver.com
 
 
 ![hyerim02's github stats](https://github-readme-stats.vercel.app/api?username=hyerim02&show_icons=true)
