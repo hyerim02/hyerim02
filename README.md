@@ -12,7 +12,7 @@
 ## 💻Tech Stacks💻  
 
 ## <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">   
-<a href="" target="_blank"><img src="https://img.shields.io/badge/SPSS-40AEF0?style=flat-square&logo=SPSS&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/SPSS-40AEF0?style=flat-square&logo=SPSS&logoColor=white"/></a> <a href="" target="_blank"><img src="https://img.shields.io/badge/MAPLE-26689A?style=flat-square&logo=MAPLE&logoColor=white"/></a>
 
 
 ![hyerim02's github stats](https://github-readme-stats.vercel.app/api?username=hyerim02&show_icons=true)
