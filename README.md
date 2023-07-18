@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A2?style=flat-square&logo=MySQL&logoColor=white"/></a>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/SAS_logo_horiz.svg/330px-SAS_logo_horiz.svg.png"width = "50"/></a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/SAS_logo_horiz.svg/330px-SAS_logo_horiz.svg.png"width = "50"style=flat-square&logo=R&logoColor=white"/></a>
 
 
 
