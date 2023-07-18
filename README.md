@@ -24,7 +24,7 @@
 
 
 # 📘 Certificates
-- **[R (Basic) Certificate]([https://www.hackerrank.com/certificates/25f36fbd4456?utm_medium=email&utm_source=mail_template_1393&utm_campaign=hrc_skills_certificate](https://www.hackerrank.com/certificates/aaad76b7cb81)**
+- **[R (Basic) Certificate](https://www.hackerrank.com/certificates/aaad76b7cb81)**
 
 
 
