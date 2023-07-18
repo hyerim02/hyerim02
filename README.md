@@ -10,7 +10,7 @@
 
 |[<img src="https://blog.kakaocdn.net/dn/tJJAF/btqNH0rpnHA/QFedr6Gwu7hoSEDOKltfvk/img.png" width = "30"/></a>](https://rimint02.tistory.com/)|[<img src="https://miro.medium.com/v2/resize:fit:636/format:webp/1*1OKmA2EdGln8O6RCVORgGg.png" width = "30"/></a>](https://github.com/hyerim02)|[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/100px-Notion-logo.svg.png" width = "28"/></a>]([(https://www.notion.so/hyerimpark/HyeRim-Park-615104a7a795492e9cc36c281966d452?pvs=4).]|
 |--|--|--|
-|[Blog][(https://park-mingyu.tistory.com/](https://rimint02.tistory.com/))|[Github](https://github.com/hyerim02)|[Notion](https://www.notion.so/hyerimpark/HyeRim-Park-615104a7a795492e9cc36c281966d452?pvs=4)|
+|[Blog](https://rimint02.tistory.com/)|[Github](https://github.com/hyerim02)|[Notion](https://www.notion.so/hyerimpark/HyeRim-Park-615104a7a795492e9cc36c281966d452?pvs=4)|
 
 </div>
 
