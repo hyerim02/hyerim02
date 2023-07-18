@@ -13,6 +13,9 @@
 
 ## <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
 
+## Certificates
+https://www.hackerrank.com/certificates/aaad76b7cb81
+
 
 ![hyerim02's github stats](https://github-readme-stats.vercel.app/api?username=hyerim02&show_icons=true)
 [![hyerim02's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hyerim02&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/hyerim02)
