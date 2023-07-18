@@ -31,7 +31,7 @@
 # 📘 Certificates
 - **[R (Basic) Certificate](https://www.hackerrank.com/certificates/aaad76b7cb81)**
 - **[SQL (Basic) Certificate](https://www.hackerrank.com/certificates/c625daab0755)**
-- **[SQL (Intermediate) Certificate]()**
+- **[SQL (Intermediate) Certificate](https://www.hackerrank.com/certificates/dd03295d758e)**
 
 
 
