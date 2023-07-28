@@ -33,10 +33,10 @@
 
 ## 🎖️ HackerRank Badges
 
-![skill](https://github.com/hyerim02/hackerrank/blob/main/Badges/skill.png)
+![sql3](https://github.com/hyerim02/hackerrank/blob/main/Badges/sql3.png)
 
 ## 🎖️ Certificates
-![sql3](https://github.com/hyerim02/hackerrank/blob/main/Badges/sql3.png)
+![skill](https://github.com/hyerim02/hackerrank/blob/main/Badges/skill.png)
 - **[R (Basic) Certificate](https://www.hackerrank.com/certificates/aaad76b7cb81)**
 - **[SQL (Basic) Certificate](https://www.hackerrank.com/certificates/c625daab0755)**
 - **[SQL (Intermediate) Certificate](https://www.hackerrank.com/certificates/dd03295d758e)**
