@@ -27,6 +27,9 @@
 
 </div>
 
+## Personal HackerRank Profile
+
+[View Profile](https://www.hackerrank.com/phl0218?hr_r=1)
 
 # 📘 Certificates
 - **[R (Basic) Certificate](https://www.hackerrank.com/certificates/aaad76b7cb81)**
