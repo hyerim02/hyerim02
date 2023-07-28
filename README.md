@@ -31,7 +31,11 @@
 
 [View Profile](https://www.hackerrank.com/phl0218?hr_r=1)
 
-# 🎖️ Certificates
+## 🎖️ HackerRank Badges
+
+![sql3](https://github.com/hyerim02/hackerrank/blob/main/Badges/sql3.png)
+
+## 🎖️ Certificates
 - **[R (Basic) Certificate](https://www.hackerrank.com/certificates/aaad76b7cb81)**
 - **[SQL (Basic) Certificate](https://www.hackerrank.com/certificates/c625daab0755)**
 - **[SQL (Intermediate) Certificate](https://www.hackerrank.com/certificates/dd03295d758e)**
