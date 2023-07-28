@@ -27,11 +27,11 @@
 
 </div>
 
-## Personal HackerRank Profile
+## 📘 HackerRank Profile
 
 [View Profile](https://www.hackerrank.com/phl0218?hr_r=1)
 
-# 📘 Certificates
+# 🎖️ Certificates
 - **[R (Basic) Certificate](https://www.hackerrank.com/certificates/aaad76b7cb81)**
 - **[SQL (Basic) Certificate](https://www.hackerrank.com/certificates/c625daab0755)**
 - **[SQL (Intermediate) Certificate](https://www.hackerrank.com/certificates/dd03295d758e)**
