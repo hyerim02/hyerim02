@@ -33,7 +33,7 @@
 
 ## 🎖️ HackerRank Badges
 
-![SQL4](https://github.com/hyerim02/hackerrank/blob/main/Badges/SQL4.png)
+![SQL5](https://github.com/hyerim02/hackerrank/blob/main/Badges/SQL5.png)
 
 ## 🎖️ Certificates
 ![skill](https://github.com/hyerim02/hackerrank/blob/main/Badges/skill.png)
